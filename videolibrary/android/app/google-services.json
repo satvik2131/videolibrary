@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "706053817811",
+    "project_id": "videolibrary-2379d",
+    "storage_bucket": "videolibrary-2379d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706053817811:android:9aef3af85440d0675d5b26",
+        "android_client_info": {
+          "package_name": "videolibrary.videolibrary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706053817811-j23b41isabu6p5hkbplmpuplglgddnim.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASnpZMxwibRTpaSF2LTYhCJTDNQNK8cGE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706053817811-j23b41isabu6p5hkbplmpuplglgddnim.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "706053817811-h3oek7uecrupi49pp1ipqodnr1i0irma.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "vieodeolibrary.videolibrary"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
