@@ -5,18 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5e03fe73-51af-4663-9b2c-55efb7e13a8e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/videolibrary/android/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/videolibrary/android/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/videolibrary/android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/videolibrary/android/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/videolibrary.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/videolibrary.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/videolibrary/lib/app/authentication/authgate.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/videolibrary/lib/app/constants/auth.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/videolibrary/lib/app/modules/home/controllers/home_controller.dart" beforeDir="false" afterPath="$PROJECT_DIR$/videolibrary/lib/app/modules/home/controllers/home_controller.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/videolibrary/lib/app/modules/home/views/home_view.dart" beforeDir="false" afterPath="$PROJECT_DIR$/videolibrary/lib/app/modules/home/views/home_view.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/videolibrary/lib/app/modules/login/bindings/login_binding.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/videolibrary/lib/app/modules/login/controllers/login_controller.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/videolibrary/lib/app/modules/login/views/login_view.dart" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/videolibrary/lib/app/routes/app_pages.dart" beforeDir="false" afterPath="$PROJECT_DIR$/videolibrary/lib/app/routes/app_pages.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/videolibrary/lib/app/routes/app_routes.dart" beforeDir="false" afterPath="$PROJECT_DIR$/videolibrary/lib/app/routes/app_routes.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/videolibrary/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/videolibrary/lib/main.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/videolibrary/linux/flutter/generated_plugin_registrant.cc" beforeDir="false" afterPath="$PROJECT_DIR$/videolibrary/linux/flutter/generated_plugin_registrant.cc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/videolibrary/linux/flutter/generated_plugins.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/videolibrary/linux/flutter/generated_plugins.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/videolibrary/macos/Flutter/GeneratedPluginRegistrant.swift" beforeDir="false" afterPath="$PROJECT_DIR$/videolibrary/macos/Flutter/GeneratedPluginRegistrant.swift" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/videolibrary/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/videolibrary/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/videolibrary/pubspec.lock" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/videolibrary/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/videolibrary/pubspec.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/videolibrary/windows/flutter/generated_plugin_registrant.cc" beforeDir="false" afterPath="$PROJECT_DIR$/videolibrary/windows/flutter/generated_plugin_registrant.cc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/videolibrary/windows/flutter/generated_plugins.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/videolibrary/windows/flutter/generated_plugins.cmake" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

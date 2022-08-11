@@ -1,31 +1,19 @@
-import 'package:firebase_auth/firebase_auth.dart';
+import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:videolibrary/app/constants/auth.dart';
+
+import '../../../service/authservice.dart';
 
 class LoginController extends GetxController {
-  FirebaseAuth _auth = AuthConst.auth;
-  Rxn<User> _firebaseUser = Rxn<User>();
+  //TODO: Implement LoginController
 
-
-  final count = 0.obs;
   @override
   void onInit() {
     super.onInit();
-    _auth.authStateChanges().listen((User? user) {
-      if (user == null) {
-        print('User is currently signed out!');
-      } else {
-        print('User is signed in!');
-      }
-    });
+    checkAuth();
+
+
 
   }
-
-  void goToHome(){
-
-    Get.toNamed("home");
-  }
-
 
   @override
   void onReady() {
@@ -37,5 +25,11 @@ class LoginController extends GetxController {
     super.onClose();
   }
 
-  void increment() => count.value++;
+
+  void checkAuth(){
+    var authService = Get.find<AuthService>();
+    authService.isLoggedIn() ? Get.toNamed('/home'): null;
+  }
+
+
 }
